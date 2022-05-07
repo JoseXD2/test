@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tails_assets.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dork anim calc0000" x="4" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0001" x="4" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0002" x="515" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0003" x="1026" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0004" x="1537" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0005" x="1537" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0006" x="2048" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0007" x="2048" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0008" x="2559" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0009" x="3070" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0010" x="3581" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0011" x="3581" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0012" x="4092" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0013" x="4092" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0014" x="4092" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0015" x="4092" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0016" x="4603" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0017" x="4603" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0018" x="5114" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0019" x="5114" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0020" x="5625" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0021" x="5625" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0022" x="5625" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0023" x="6136" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0024" x="6136" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0025" x="6136" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0026" x="6647" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0027" x="6647" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0028" x="6647" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0029" x="7158" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0030" x="7158" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0031" x="7158" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0032" x="7669" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0033" x="7669" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0034" x="7669" y="4" width="511" height="588"/>
+	<SubTexture name="dork anim calc0035" x="4" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0036" x="4" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0037" x="4" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0038" x="515" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0039" x="515" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0040" x="515" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0041" x="1026" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0042" x="1026" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0043" x="1026" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0044" x="1537" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0045" x="1537" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0046" x="1537" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0047" x="2048" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0048" x="2048" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0049" x="2048" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0050" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0051" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0052" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0053" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0054" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0055" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0056" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0057" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0058" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0059" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0060" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0061" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0062" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0063" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0064" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0065" x="2559" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0066" x="3070" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0067" x="3070" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0068" x="3581" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0069" x="3581" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0070" x="4092" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0071" x="4092" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0072" x="4603" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0073" x="5114" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0074" x="5625" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0075" x="5625" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0076" x="5625" y="592" width="511" height="588"/>
+	<SubTexture name="dork anim calc0077" x="5625" y="592" width="511" height="588"/>
+	<SubTexture name="dorkly down0000" x="6136" y="592" width="528" height="600"/>
+	<SubTexture name="dorkly down0001" x="6136" y="592" width="528" height="600"/>
+	<SubTexture name="dorkly down0002" x="6664" y="592" width="528" height="600"/>
+	<SubTexture name="dorkly down0003" x="7192" y="592" width="528" height="600"/>
+	<SubTexture name="dorkly down0004" x="4" y="1192" width="528" height="600"/>
+	<SubTexture name="dorkly down0005" x="4" y="1192" width="528" height="600"/>
+	<SubTexture name="dorkly down0006" x="532" y="1192" width="528" height="600"/>
+	<SubTexture name="dorkly down0007" x="532" y="1192" width="528" height="600"/>
+	<SubTexture name="dorkly down0008" x="1060" y="1192" width="528" height="600"/>
+	<SubTexture name="dorkly down0009" x="1060" y="1192" width="528" height="600"/>
+	<SubTexture name="dorkly down0010" x="1060" y="1192" width="528" height="600"/>
+	<SubTexture name="dorkly down0011" x="1060" y="1192" width="528" height="600"/>
+	<SubTexture name="dorkly down0012" x="1060" y="1192" width="528" height="600"/>
+	<SubTexture name="dorkly down0013" x="1060" y="1192" width="528" height="600"/>
+	<SubTexture name="dorkly idle0000" x="1588" y="1192" width="474" height="587"/>
+	<SubTexture name="dorkly idle0001" x="2062" y="1192" width="474" height="587"/>
+	<SubTexture name="dorkly idle0002" x="2536" y="1192" width="474" height="587"/>
+	<SubTexture name="dorkly idle0003" x="3010" y="1192" width="474" height="587"/>
+	<SubTexture name="dorkly idle0004" x="3484" y="1192" width="474" height="587"/>
+	<SubTexture name="dorkly idle0005" x="3958" y="1192" width="474" height="587"/>
+	<SubTexture name="dorkly idle0006" x="4432" y="1192" width="474" height="587"/>
+	<SubTexture name="dorkly idle0007" x="4906" y="1192" width="474" height="587"/>
+	<SubTexture name="dorkly idle0008" x="5380" y="1192" width="474" height="587"/>
+	<SubTexture name="dorkly idle0009" x="5380" y="1192" width="474" height="587"/>
+	<SubTexture name="dorkly idle0010" x="5380" y="1192" width="474" height="587"/>
+	<SubTexture name="dorkly idle0011" x="5380" y="1192" width="474" height="587"/>
+	<SubTexture name="dorkly idle0012" x="5380" y="1192" width="474" height="587"/>
+	<SubTexture name="dorkly idle0013" x="5380" y="1192" width="474" height="587"/>
+	<SubTexture name="dorkly left0000" x="5854" y="1192" width="454" height="578"/>
+	<SubTexture name="dorkly left0001" x="6308" y="1192" width="454" height="578"/>
+	<SubTexture name="dorkly left0002" x="6762" y="1192" width="454" height="578"/>
+	<SubTexture name="dorkly left0003" x="7216" y="1192" width="454" height="578"/>
+	<SubTexture name="dorkly left0004" x="7670" y="1192" width="454" height="578"/>
+	<SubTexture name="dorkly left0005" x="4" y="1792" width="454" height="578"/>
+	<SubTexture name="dorkly left0006" x="458" y="1792" width="454" height="578"/>
+	<SubTexture name="dorkly left0007" x="458" y="1792" width="454" height="578"/>
+	<SubTexture name="dorkly left0008" x="912" y="1792" width="454" height="578"/>
+	<SubTexture name="dorkly left0009" x="912" y="1792" width="454" height="578"/>
+	<SubTexture name="dorkly left0010" x="912" y="1792" width="454" height="578"/>
+	<SubTexture name="dorkly left0011" x="912" y="1792" width="454" height="578"/>
+	<SubTexture name="dorkly left0012" x="912" y="1792" width="454" height="578"/>
+	<SubTexture name="dorkly left0013" x="912" y="1792" width="454" height="578"/>
+	<SubTexture name="dorkly right0000" x="1366" y="1792" width="530" height="587"/>
+	<SubTexture name="dorkly right0001" x="1896" y="1792" width="530" height="587"/>
+	<SubTexture name="dorkly right0002" x="2426" y="1792" width="530" height="587"/>
+	<SubTexture name="dorkly right0003" x="2956" y="1792" width="530" height="587"/>
+	<SubTexture name="dorkly right0004" x="3486" y="1792" width="530" height="587"/>
+	<SubTexture name="dorkly right0005" x="4016" y="1792" width="530" height="587"/>
+	<SubTexture name="dorkly right0006" x="4546" y="1792" width="530" height="587"/>
+	<SubTexture name="dorkly right0007" x="5076" y="1792" width="530" height="587"/>
+	<SubTexture name="dorkly right0008" x="5606" y="1792" width="530" height="587"/>
+	<SubTexture name="dorkly right0009" x="5606" y="1792" width="530" height="587"/>
+	<SubTexture name="dorkly right0010" x="5606" y="1792" width="530" height="587"/>
+	<SubTexture name="dorkly right0011" x="5606" y="1792" width="530" height="587"/>
+	<SubTexture name="dorkly right0012" x="5606" y="1792" width="530" height="587"/>
+	<SubTexture name="dorkly right0013" x="5606" y="1792" width="530" height="587"/>
+	<SubTexture name="dorkly up0000" x="6136" y="1792" width="481" height="626"/>
+	<SubTexture name="dorkly up0001" x="6617" y="1792" width="481" height="626"/>
+	<SubTexture name="dorkly up0002" x="7098" y="1792" width="481" height="626"/>
+	<SubTexture name="dorkly up0003" x="7098" y="1792" width="481" height="626"/>
+	<SubTexture name="dorkly up0004" x="7579" y="1792" width="481" height="626"/>
+	<SubTexture name="dorkly up0005" x="7579" y="1792" width="481" height="626"/>
+	<SubTexture name="dorkly up0006" x="4" y="2418" width="481" height="626"/>
+	<SubTexture name="dorkly up0007" x="4" y="2418" width="481" height="626"/>
+	<SubTexture name="dorkly up0008" x="485" y="2418" width="481" height="626"/>
+	<SubTexture name="dorkly up0009" x="485" y="2418" width="481" height="626"/>
+	<SubTexture name="dorkly up0010" x="485" y="2418" width="481" height="626"/>
+	<SubTexture name="dorkly up0011" x="485" y="2418" width="481" height="626"/>
+	<SubTexture name="dorkly up0012" x="485" y="2418" width="481" height="626"/>
+	<SubTexture name="dorkly up0013" x="485" y="2418" width="481" height="626"/>
+</TextureAtlas>

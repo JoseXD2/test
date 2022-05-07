@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "BloodHill",
+		"player1": "dorklysonic-playable",
+		"player2": "sonicchillexe",
+		"player3": null,
+		"events": [
+			[
+				86222.2222222223,
+				[
+					[
+						"noteskinchangeOPPT",
+						"NOTE_assets_exe",
+						""
+					]
+				]
+			],
+			[
+				86888.888888889,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicrunexe"
+					],
+					[
+						"Change Character",
+						"gf",
+						"sonicrun"
+					]
+				]
+			],
+			[
+				86892.2222222223,
+				[
+					[
+						"Change Character",
+						"gf",
+						"sonicrun"
+					]
+				]
+			],
+			[
+				161388.888888889,
+				[
+					[
+						"Change Character",
+						"gf",
+						"sonicrunflip"
+					],
+					[
+						"",
+						"dad",
+						"sonicrunexeflip"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 135,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "exe"
+	}
+}

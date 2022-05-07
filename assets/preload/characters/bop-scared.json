@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-80,
+				-250
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GF Dancing Beat scary",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BopScared_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bop",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-130,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

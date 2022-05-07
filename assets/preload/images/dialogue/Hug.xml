@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hug.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hug!0000" x="0" y="0" width="453" height="434" frameX="0" frameY="0" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0001" x="453" y="0" width="455" height="429" frameX="-3" frameY="-6" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0002" x="908" y="0" width="457" height="424" frameX="-5" frameY="-11" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0003" x="1365" y="0" width="459" height="421" frameX="-6" frameY="-14" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0004" x="0" y="434" width="460" height="419" frameX="-7" frameY="-17" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0005" x="460" y="434" width="461" height="417" frameX="-8" frameY="-19" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0006" x="921" y="434" width="461" height="416" frameX="-9" frameY="-20" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0007" x="1382" y="434" width="461" height="415" frameX="-9" frameY="-21" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0008" x="0" y="853" width="462" height="414" frameX="-9" frameY="-22" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0009" x="462" y="853" width="462" height="414" frameX="-9" frameY="-22" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0010" x="924" y="853" width="462" height="414" frameX="-9" frameY="-22" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0011" x="924" y="853" width="462" height="414" frameX="-9" frameY="-22" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0012" x="924" y="853" width="462" height="414" frameX="-9" frameY="-22" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0013" x="924" y="853" width="462" height="414" frameX="-9" frameY="-22" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0014" x="924" y="853" width="462" height="414" frameX="-9" frameY="-22" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0015" x="924" y="853" width="462" height="414" frameX="-9" frameY="-22" frameWidth="471" frameHeight="436"/>
+	<SubTexture name="Hug!0016" x="924" y="853" width="462" height="414" frameX="-9" frameY="-22" frameWidth="471" frameHeight="436"/>
+</TextureAtlas>

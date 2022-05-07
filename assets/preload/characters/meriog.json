@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				200,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Meri idle0"
+		},
+		{
+			"offsets": [
+				220,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Meri left"
+		},
+		{
+			"offsets": [
+				210,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Meri right"
+		},
+		{
+			"offsets": [
+				230,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Meri up"
+		},
+		{
+			"offsets": [
+				210,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Meri down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Meriog",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "meriforever",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		220,
+		0
+	],
+	"camera_position": [
+		-80,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

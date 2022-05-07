@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bop Idle"
+		},
+		{
+			"offsets": [
+				13,
+				-157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bop Left"
+		},
+		{
+			"offsets": [
+				33,
+				-191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bop down"
+		},
+		{
+			"offsets": [
+				-6,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bop Up"
+		},
+		{
+			"offsets": [
+				52,
+				-165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bop Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Oheebop_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bop",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		60,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

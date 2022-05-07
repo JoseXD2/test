@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-59,
+				-184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				-53,
+				-300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"offsets": [
+				-81,
+				-345
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MeriLose",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jhonn",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		85
+	],
+	"camera_position": [
+		-160,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

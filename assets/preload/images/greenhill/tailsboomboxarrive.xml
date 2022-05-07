@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tailsboomboxarrive.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bop0000" x="4" y="4" width="341" height="616" frameX="-51" frameY="0" frameWidth="403" frameHeight="616"/>
+	<SubTexture name="bop0001" x="4" y="703" width="403" height="308" frameX="0" frameY="-248" frameWidth="403" frameHeight="616"/>
+	<SubTexture name="bop0002" x="4" y="703" width="403" height="308" frameX="0" frameY="-248" frameWidth="403" frameHeight="616"/>
+	<SubTexture name="bop0003" x="345" y="4" width="370" height="362" frameX="-18" frameY="-194" frameWidth="403" frameHeight="616"/>
+	<SubTexture name="bop0004" x="345" y="4" width="370" height="362" frameX="-18" frameY="-194" frameWidth="403" frameHeight="616"/>
+	<SubTexture name="bop0005" x="345" y="366" width="388" height="337" frameX="-8" frameY="-219" frameWidth="403" frameHeight="616"/>
+	<SubTexture name="bop0006" x="345" y="366" width="388" height="337" frameX="-8" frameY="-219" frameWidth="403" frameHeight="616"/>
+</TextureAtlas>

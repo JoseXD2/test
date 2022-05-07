@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "idot",
+		"player1": "dorklysonic-playable",
+		"player2": "dorklytails",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"noteskinchangeBF",
+						"NOTE_assets",
+						"noteSplashes"
+					]
+				]
+			],
+			[
+				66666.6666666666,
+				[
+					[
+						"Play Animation",
+						"calc",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes_tails",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 144,
+		"arrowSkin": "NOTE_assets_tails",
+		"needsVoices": true,
+		"song": "Idot"
+	}
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Meri Idle"
+		},
+		{
+			"offsets": [
+				-6,
+				-256
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Meri Left"
+		},
+		{
+			"offsets": [
+				0,
+				-277
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Meri Down"
+		},
+		{
+			"offsets": [
+				-12,
+				-248
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Meri Up"
+		},
+		{
+			"offsets": [
+				25,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Meri Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-267
+			],
+			"anim": "miss",
+			"fps": 24,
+			"name": "Meri miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-282
+			],
+			"anim": "kiss",
+			"fps": 24,
+			"name": "Meri kiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Meri_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "meri",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		141
+	],
+	"camera_position": [
+		10,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

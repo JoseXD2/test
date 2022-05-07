@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="knuckchase.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bop0000" x="1653" y="2016" width="1482" height="2015" frameX="-132" frameY="0" frameWidth="1754" frameHeight="2087"/>
+	<SubTexture name="bop0001" x="4" y="4" width="1754" height="2003" frameX="0" frameY="-84" frameWidth="1754" frameHeight="2087"/>
+	<SubTexture name="bop0002" x="1758" y="4" width="1550" height="2012" frameX="-64" frameY="0" frameWidth="1754" frameHeight="2087"/>
+	<SubTexture name="bop0003" x="4" y="2007" width="1649" height="1983" frameX="-105" frameY="-84" frameWidth="1754" frameHeight="2087"/>
+</TextureAtlas>

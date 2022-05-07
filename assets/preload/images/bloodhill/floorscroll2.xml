@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="floorscroll2.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bop0000" x="4" y="4" width="2454" height="355" frameX="0" frameY="0" frameWidth="2742" frameHeight="355"/>
+	<SubTexture name="bop0001" x="4" y="423" width="2454" height="355" frameX="-48" frameY="0" frameWidth="2742" frameHeight="355"/>
+	<SubTexture name="bop0002" x="4" y="842" width="2454" height="355" frameX="-96" frameY="0" frameWidth="2742" frameHeight="355"/>
+	<SubTexture name="bop0003" x="4" y="1261" width="2454" height="355" frameX="-144" frameY="0" frameWidth="2742" frameHeight="355"/>
+	<SubTexture name="bop0004" x="4" y="1680" width="2454" height="355" frameX="-192" frameY="0" frameWidth="2742" frameHeight="355"/>
+	<SubTexture name="bop0005" x="4" y="2099" width="2454" height="355" frameX="-240" frameY="0" frameWidth="2742" frameHeight="355"/>
+	<SubTexture name="bop0006" x="4" y="2518" width="2454" height="355" frameX="-288" frameY="0" frameWidth="2742" frameHeight="355"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "kit idle"
+		},
+		{
+			"offsets": [
+				65,
+				-178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kit left"
+		},
+		{
+			"offsets": [
+				-62,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kit right"
+		},
+		{
+			"offsets": [
+				-12,
+				-164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "kit up"
+		},
+		{
+			"offsets": [
+				20,
+				-167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "kit down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Vexi_Assets",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "vexi",
+	"flip_x": true,
+	"healthbar_colors": [
+		104,
+		81,
+		110
+	],
+	"camera_position": [
+		10,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

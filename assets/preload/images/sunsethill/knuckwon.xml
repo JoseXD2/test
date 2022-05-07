@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="knuckwon.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bop0000" x="853" y="4" width="773" height="720" frameX="-72" frameY="0" frameWidth="849" frameHeight="720"/>
+	<SubTexture name="bop0001" x="853" y="4" width="773" height="720" frameX="-72" frameY="0" frameWidth="849" frameHeight="720"/>
+	<SubTexture name="bop0002" x="4" y="4" width="849" height="720"/>
+	<SubTexture name="bop0003" x="4" y="4" width="849" height="720"/>
+	<SubTexture name="bop0004" x="4" y="724" width="805" height="720" frameX="-44" frameY="0" frameWidth="849" frameHeight="720"/>
+	<SubTexture name="bop0005" x="4" y="724" width="805" height="720" frameX="-44" frameY="0" frameWidth="849" frameHeight="720"/>
+	<SubTexture name="bop0006" x="809" y="724" width="789" height="720" frameX="-60" frameY="0" frameWidth="849" frameHeight="720"/>
+	<SubTexture name="bop0007" x="809" y="724" width="789" height="720" frameX="-60" frameY="0" frameWidth="849" frameHeight="720"/>
+</TextureAtlas>

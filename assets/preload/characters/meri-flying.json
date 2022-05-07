@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Meri flying Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Meri flying down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Meri flying up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				128,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "Meri flying right"
+		},
+		{
+			"offsets": [
+				-15,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "Meri flying left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Meri-Flying_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "HI_HI_meri_veil",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		0,
+		31
+	],
+	"camera_position": [
+		50,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

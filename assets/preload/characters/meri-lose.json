@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-150,
+				-254
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				-203,
+				-410
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"offsets": [
+				-166,
+				-422
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MeriLose_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "meri-sad",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		141
+	],
+	"camera_position": [
+		-220,
+		620
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

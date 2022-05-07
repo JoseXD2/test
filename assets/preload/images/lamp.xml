@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lamp.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lamp post0000" x="0" y="0" width="1465" height="1207" frameX="-1845" frameY="0" frameWidth="3310" frameHeight="1207"/>
+	<SubTexture name="lamp post0001" x="0" y="0" width="1465" height="1207" frameX="-933" frameY="0" frameWidth="3310" frameHeight="1207"/>
+	<SubTexture name="lamp post0002" x="0" y="0" width="1465" height="1207" frameX="0" frameY="0" frameWidth="3310" frameHeight="1207"/>
+</TextureAtlas>

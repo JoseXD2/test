@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="meri.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Meri Hii0000" x="0" y="0" width="286" height="353" frameX="-26" frameY="-5" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meri Hii0001" x="0" y="0" width="286" height="353" frameX="-26" frameY="-5" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meri Hii0002" x="286" y="0" width="276" height="358" frameX="-30" frameY="0" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meri Hii0003" x="286" y="0" width="276" height="358" frameX="-30" frameY="0" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meri Hii0004" x="562" y="0" width="311" height="337" frameX="-14" frameY="-21" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meri Hii0005" x="562" y="0" width="311" height="337" frameX="-14" frameY="-21" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meri Hii0006" x="873" y="0" width="337" height="332" frameX="0" frameY="-26" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meri Hii0007" x="873" y="0" width="337" height="332" frameX="0" frameY="-26" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meri happy0000" x="1210" y="0" width="268" height="356" frameX="-16" frameY="-11" frameWidth="300" frameHeight="367"/>
+	<SubTexture name="Meri happy0001" x="1210" y="0" width="268" height="356" frameX="-16" frameY="-11" frameWidth="300" frameHeight="367"/>
+	<SubTexture name="Meri happy0002" x="1478" y="0" width="252" height="367" frameX="-24" frameY="0" frameWidth="300" frameHeight="367"/>
+	<SubTexture name="Meri happy0003" x="1478" y="0" width="252" height="367" frameX="-24" frameY="0" frameWidth="300" frameHeight="367"/>
+	<SubTexture name="Meri happy0004" x="1730" y="0" width="286" height="353" frameX="-7" frameY="-14" frameWidth="300" frameHeight="367"/>
+	<SubTexture name="Meri happy0005" x="1730" y="0" width="286" height="353" frameX="-7" frameY="-14" frameWidth="300" frameHeight="367"/>
+	<SubTexture name="Meri happy0006" x="0" y="367" width="300" height="348" frameX="0" frameY="-19" frameWidth="300" frameHeight="367"/>
+	<SubTexture name="Meri happy0007" x="0" y="367" width="300" height="348" frameX="0" frameY="-19" frameWidth="300" frameHeight="367"/>
+	<SubTexture name="Meri sad0000" x="300" y="367" width="274" height="359" frameX="-17" frameY="-8" frameWidth="309" frameHeight="367"/>
+	<SubTexture name="Meri sad0001" x="300" y="367" width="274" height="359" frameX="-17" frameY="-8" frameWidth="309" frameHeight="367"/>
+	<SubTexture name="Meri sad0002" x="574" y="367" width="265" height="367" frameX="-22" frameY="0" frameWidth="309" frameHeight="367"/>
+	<SubTexture name="Meri sad0003" x="574" y="367" width="265" height="367" frameX="-22" frameY="0" frameWidth="309" frameHeight="367"/>
+	<SubTexture name="Meri sad0004" x="839" y="367" width="286" height="353" frameX="-11" frameY="-14" frameWidth="309" frameHeight="367"/>
+	<SubTexture name="Meri sad0005" x="839" y="367" width="286" height="353" frameX="-11" frameY="-14" frameWidth="309" frameHeight="367"/>
+	<SubTexture name="Meri sad0006" x="1125" y="367" width="309" height="347" frameX="0" frameY="-20" frameWidth="309" frameHeight="367"/>
+	<SubTexture name="Meri sad0007" x="1125" y="367" width="309" height="347" frameX="0" frameY="-20" frameWidth="309" frameHeight="367"/>
+	<SubTexture name="meri evil0000" x="1434" y="367" width="271" height="356" frameX="-12" frameY="-9" frameWidth="296" frameHeight="365"/>
+	<SubTexture name="meri evil0001" x="1434" y="367" width="271" height="356" frameX="-12" frameY="-9" frameWidth="296" frameHeight="365"/>
+	<SubTexture name="meri evil0002" x="1705" y="367" width="255" height="365" frameX="-20" frameY="0" frameWidth="296" frameHeight="365"/>
+	<SubTexture name="meri evil0003" x="1705" y="367" width="255" height="365" frameX="-20" frameY="0" frameWidth="296" frameHeight="365"/>
+	<SubTexture name="meri evil0004" x="0" y="734" width="287" height="353" frameX="-4" frameY="-12" frameWidth="296" frameHeight="365"/>
+	<SubTexture name="meri evil0005" x="0" y="734" width="287" height="353" frameX="-4" frameY="-12" frameWidth="296" frameHeight="365"/>
+	<SubTexture name="meri evil0006" x="287" y="734" width="296" height="346" frameX="0" frameY="-19" frameWidth="296" frameHeight="365"/>
+	<SubTexture name="meri evil0007" x="287" y="734" width="296" height="346" frameX="0" frameY="-19" frameWidth="296" frameHeight="365"/>
+</TextureAtlas>

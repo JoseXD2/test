@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Meri_pissedOff.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Meri Angry0000" x="0" y="0" width="286" height="353" frameX="-26" frameY="-5" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meri Angry0001" x="0" y="0" width="286" height="353" frameX="-26" frameY="-5" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meri Angry0002" x="286" y="0" width="276" height="358" frameX="-30" frameY="0" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meri Angry0003" x="286" y="0" width="276" height="358" frameX="-30" frameY="0" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meri Angry0004" x="562" y="0" width="308" height="337" frameX="-14" frameY="-21" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meri Angry0005" x="562" y="0" width="308" height="337" frameX="-14" frameY="-21" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meri Angry0006" x="0" y="358" width="337" height="332" frameX="0" frameY="-26" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meri Angry0007" x="0" y="358" width="337" height="332" frameX="0" frameY="-26" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="Meriangry0000" x="286" y="0" width="276" height="358" frameX="-30" frameY="0" frameWidth="337" frameHeight="358"/>
+</TextureAtlas>

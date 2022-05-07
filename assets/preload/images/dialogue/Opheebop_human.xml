@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Opheebop_human.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Opheebop0000" x="0" y="0" width="338" height="442" frameX="-19" frameY="-7" frameWidth="366" frameHeight="449"/>
+	<SubTexture name="Opheebop0001" x="0" y="0" width="338" height="442" frameX="-19" frameY="-7" frameWidth="366" frameHeight="449"/>
+	<SubTexture name="Opheebop0002" x="338" y="0" width="328" height="449" frameX="-24" frameY="0" frameWidth="366" frameHeight="449"/>
+	<SubTexture name="Opheebop0003" x="338" y="0" width="328" height="449" frameX="-24" frameY="0" frameWidth="366" frameHeight="449"/>
+	<SubTexture name="Opheebop0004" x="0" y="449" width="366" height="418" frameX="0" frameY="-31" frameWidth="366" frameHeight="449"/>
+	<SubTexture name="Opheebop0005" x="0" y="449" width="366" height="418" frameX="0" frameY="-31" frameWidth="366" frameHeight="449"/>
+	<SubTexture name="Opheebop0006" x="366" y="449" width="362" height="428" frameX="-3" frameY="-21" frameWidth="366" frameHeight="449"/>
+	<SubTexture name="Opheebop0007" x="366" y="449" width="362" height="428" frameX="-3" frameY="-21" frameWidth="366" frameHeight="449"/>
+</TextureAtlas>

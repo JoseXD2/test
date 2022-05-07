@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jhonn running idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jhonn running down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-26,
+				-14
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jhonn running up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "Jhonn running right"
+		},
+		{
+			"offsets": [
+				-5,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "Jhonn running left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jhonn-run_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jhonn",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		85
+	],
+	"camera_position": [
+		-110,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

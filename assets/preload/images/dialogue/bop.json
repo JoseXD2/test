@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "opheebop demon",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "opheebop demon",
+			"anim": "talking",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Bop_Talkin"
+}

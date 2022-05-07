@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eggman.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bop0000" x="72" y="61" width="62" height="57" frameX="-4" frameY="-1" frameWidth="72" frameHeight="59"/>
+	<SubTexture name="bop0001" x="72" y="61" width="62" height="57" frameX="-4" frameY="-1" frameWidth="72" frameHeight="59"/>
+	<SubTexture name="bop0002" x="4" y="61" width="68" height="57" frameX="0" frameY="-2" frameWidth="72" frameHeight="59"/>
+	<SubTexture name="bop0003" x="4" y="61" width="68" height="57" frameX="0" frameY="-2" frameWidth="72" frameHeight="59"/>
+	<SubTexture name="bop0004" x="4" y="4" width="72" height="57" frameX="0" frameY="0" frameWidth="72" frameHeight="59"/>
+	<SubTexture name="bop0005" x="4" y="4" width="72" height="57" frameX="0" frameY="0" frameWidth="72" frameHeight="59"/>
+	<SubTexture name="bop0006" x="76" y="4" width="54" height="57" frameX="-11" frameY="-1" frameWidth="72" frameHeight="59"/>
+	<SubTexture name="bop0007" x="76" y="4" width="54" height="57" frameX="-11" frameY="-1" frameWidth="72" frameHeight="59"/>
+</TextureAtlas>

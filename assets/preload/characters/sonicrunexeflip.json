@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dorkly idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dorkly down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dorkly up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dorkly right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dorkly left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonicexechase",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		51,
+		255
+	],
+	"camera_position": [
+		-20,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tails.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bop0000" x="4" y="68" width="124" height="64" frameX="-4" frameY="0" frameWidth="128" frameHeight="64"/>
+	<SubTexture name="bop0001" x="4" y="68" width="124" height="64" frameX="-4" frameY="0" frameWidth="128" frameHeight="64"/>
+	<SubTexture name="bop0002" x="4" y="4" width="125" height="64" frameX="-1" frameY="0" frameWidth="128" frameHeight="64"/>
+	<SubTexture name="bop0003" x="4" y="4" width="125" height="64" frameX="-1" frameY="0" frameWidth="128" frameHeight="64"/>
+	<SubTexture name="bop0004" x="129" y="4" width="123" height="64" frameX="-2" frameY="0" frameWidth="128" frameHeight="64"/>
+	<SubTexture name="bop0005" x="129" y="4" width="123" height="64" frameX="-2" frameY="0" frameWidth="128" frameHeight="64"/>
+	<SubTexture name="bop0006" x="128" y="68" width="124" height="64" frameX="0" frameY="0" frameWidth="128" frameHeight="64"/>
+	<SubTexture name="bop0007" x="128" y="68" width="124" height="64" frameX="0" frameY="0" frameWidth="128" frameHeight="64"/>
+</TextureAtlas>

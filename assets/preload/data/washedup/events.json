@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "SunSetHill",
+		"player1": "bf-washed",
+		"player2": "dorklysonic-washed",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"noteskinchangeBF",
+						"NOTE_assets_bf",
+						"noteSplashes_bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-washed",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Washedup"
+	}
+}

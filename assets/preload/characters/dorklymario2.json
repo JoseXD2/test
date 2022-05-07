@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dorkly idle"
+		},
+		{
+			"offsets": [
+				-24,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dorkly left"
+		},
+		{
+			"offsets": [
+				-32,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dorkly down"
+		},
+		{
+			"offsets": [
+				60,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dorkly up"
+		},
+		{
+			"offsets": [
+				72,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dorkly right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mario_assets_secondhalf",
+	"position": [
+		-30,
+		40
+	],
+	"healthicon": "dorklymario",
+	"flip_x": true,
+	"healthbar_colors": [
+		164,
+		52,
+		52
+	],
+	"camera_position": [
+		-490,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

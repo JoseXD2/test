@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "meri Evil idle"
+		},
+		{
+			"offsets": [
+				10,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "meri Evil Left"
+		},
+		{
+			"offsets": [
+				-60,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "meri evil Down"
+		},
+		{
+			"offsets": [
+				-1,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "meri evil Up"
+		},
+		{
+			"offsets": [
+				-75,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "meri Evil right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-467
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "rip bozo",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Meri_Evil_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "meri-evil",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		10,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

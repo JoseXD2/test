@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="soniclegs.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bop0000" x="4" y="4" width="354" height="252" frameX="-16" frameY="0" frameWidth="374" frameHeight="252"/>
+	<SubTexture name="bop0001" x="422" y="4" width="370" height="252" frameX="0" frameY="0" frameWidth="374" frameHeight="252"/>
+	<SubTexture name="bop0002" x="4" y="320" width="358" height="252" frameX="-16" frameY="0" frameWidth="374" frameHeight="252"/>
+	<SubTexture name="bop0003" x="426" y="320" width="353" height="252" frameX="-12" frameY="0" frameWidth="374" frameHeight="252"/>
+</TextureAtlas>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_BF.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M bf HEY0000" x="0" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0001" x="394" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0002" x="788" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0003" x="1182" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0004" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0005" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0006" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0007" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0008" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0009" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0010" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0011" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0012" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0013" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0014" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0015" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0016" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0017" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0018" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0019" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0020" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0021" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0022" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0023" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0024" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M bf HEY0025" x="1576" y="0" width="394" height="420"/>
+	<SubTexture name="M BF Idle0000" x="0" y="420" width="420" height="414"/>
+	<SubTexture name="M BF Idle0001" x="0" y="420" width="420" height="414"/>
+	<SubTexture name="M BF Idle0002" x="420" y="420" width="420" height="414"/>
+	<SubTexture name="M BF Idle0003" x="420" y="420" width="420" height="414"/>
+	<SubTexture name="M BF Idle0004" x="840" y="420" width="420" height="414"/>
+	<SubTexture name="M BF Idle0005" x="840" y="420" width="420" height="414"/>
+	<SubTexture name="M BF Idle0006" x="1260" y="420" width="420" height="414"/>
+	<SubTexture name="M BF Idle0007" x="0" y="834" width="420" height="414"/>
+	<SubTexture name="M BF Idle0008" x="420" y="834" width="420" height="414"/>
+	<SubTexture name="M BF Idle0009" x="420" y="834" width="420" height="414"/>
+	<SubTexture name="M BF Idle0010" x="420" y="834" width="420" height="414"/>
+	<SubTexture name="M BF Idle0011" x="420" y="834" width="420" height="414"/>
+	<SubTexture name="M BF Idle0012" x="420" y="834" width="420" height="414"/>
+	<SubTexture name="M BF Idle0013" x="420" y="834" width="420" height="414"/>
+</TextureAtlas>

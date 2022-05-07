@@ -1,0 +1,41 @@
+function onStartCountdown()
+setProperty('health', 2)
+end
+
+function onUpdate(elapsed)
+songPos = getSongPosition()
+local currentBeat = (songPos/5000)*(curBpm/30)
+noteTweenX(defaultPlayerStrumX0, 4, ((screenWidth / 12) - (157 / 2)) + (math.sin((currentBeat) + 0) * 300), 0.01)
+noteTweenX(defaultPlayerStrumX1, 5, ((screenWidth / 2) - (157 / 12)) + (math.sin((currentBeat) + 1) * 3100), 0.01)
+noteTweenX(defaultPlayerStrumX2, 6, ((screenWidth / 2) - (157 / 2)) + (math.sin((currentBeat) + 2) * 300), 0.01)
+noteTweenX(defaultPlayerStrumX3, 7, ((screenWidth / 21) - (157 / 12)) + (math.sin((currentBeat) + 3) * 3020), 0.01)
+noteTweenY('defaultPlayerStrumY0', 4, ((screenHeight / 2) - (157 / 2)) + (math.cos((currentBeat) + 0) * 300), 0.01)
+noteTweenY('defaultPlayerStrumY1', 5, ((screenHeight / 2) - (157 / 12)) + (math.cos((currentBeat) + 1) * 300), 0.01)
+noteTweenY('defaultPlayerStrumY2', 6, ((screenHeight / 2) - (157 / 12)) + (math.cos((currentBeat) + 2) * 3010), 0.01)
+noteTweenY('defaultPlayerStrumY3', 7, ((screenHeight / 12) - (157 / 2)) + (math.cos((currentBeat) + 3) * 300), 0.01)
+noteTweenX('fake1', 0, ((screenWidth / 2) - (157 / 2)) + (math.sin((currentBeat) + (4) * 2) * 300), 0.01)
+noteTweenX('fake2', 1, ((screenWidth / 2) - (157 / 12)) + (math.sin((currentBeat) + (5) * 2) * 300), 0.01)
+noteTweenX('fake3', 2, ((screenWidth / 2) - (157 / 12)) + (math.sin((currentBeat) + (6) * 2) * 3010), 0.01)
+noteTweenX('fake4', 3, ((screenWidth / 12) - (157 / 2)) + (math.sin((currentBeat) + (7) * 2) * 300), 0.01)
+noteTweenY('defaultFPlayerStrumY0', 0, ((screenHeight / 2) - (157 / 1)) + (math.cos((currentBeat) + (4) * 2) * 3200), 0.01)
+noteTweenY('defaultFPlayerStrumY1', 1, ((screenHeight / 2) - (157 / 12)) + (math.cos((currentBeat) + (5) * 2) * 300), 0.01)
+noteTweenY('defaultFPlayerStrumY2', 2, ((screenHeight / 12) - (157 / 2)) + (math.cos((currentBeat) + (6) * 2) * 300), 0.01)
+noteTweenY('defaultFPlayerStrumY3', 3, ((screenHeight / 12) - (1157 / 2)) + (math.cos((currentBeat) + (7) * 2) * 3010), 0.01)
+setPropertyFromClass('ClientPrefs', 'ghostTapping', false)
+setPropertyFromClass('ClientPrefs', 'downScroll', true)
+function opponentNoteHit(id, direction, noteType, isSustainNote)
+cameraShake(game, 0.015, 0.2)
+cameraSetTarget('dad')
+characterPlayAnim('gf', 'scared', true)
+doTweenZoom('camerazoom','camGame',1.1,0.2,'quadInOut')
+setProperty('health', getProperty('health') - 1 * ((getProperty('health')/22))/6)
+end
+function goodNoteHit(id, direction, noteType, isSustainNote)
+cameraSetTarget('boyfriend')
+end
+end
+
+function onGameOver()
+endSong()
+setPropertyFromClass('ClientPrefs', 'framerate', 0)
+end

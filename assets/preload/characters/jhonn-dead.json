@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-59,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				-273,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"offsets": [
+				-25,
+				-51
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RonDeath_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jhonn",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		85
+	],
+	"camera_position": [
+		-430,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

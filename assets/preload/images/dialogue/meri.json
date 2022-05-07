@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		150,
+		70
+	],
+	"scale": 1.55,
+	"animations": [
+		{
+			"loop_name": "Meri Hii",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Meri Hii",
+			"anim": "hii",
+			"loop_offsets": [
+				0,
+				-1
+			]
+		},
+		{
+			"loop_name": "Meri happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Meri happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Meri sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Meri sad",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "meri evil",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "meri evil",
+			"anim": "evil",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "meri"
+}

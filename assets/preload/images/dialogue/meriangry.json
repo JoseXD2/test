@@ -1,0 +1,24 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Meri_pissedoff",
+	"animations": [
+		{
+			"idle_offsets": [
+				-171,
+				-32
+			],
+			"loop_offsets": [
+				-170,
+				-28
+			],
+			"anim": "talk",
+			"idle_name": "Meriangry",
+			"loop_name": "Meri Angry"
+		}
+	]
+}

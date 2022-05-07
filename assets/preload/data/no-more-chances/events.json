@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.81,
+		"stage": "MarioOffice",
+		"player1": "dorklysonic-playable-flipped",
+		"player2": "dorklymario",
+		"player3": null,
+		"events": [
+			[
+				89140.1785714286,
+				[
+					[
+						"Change Scroll Speed",
+						"1.15",
+						"0.1"
+					]
+				]
+			],
+			[
+				89142.8571428571,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dorklymario2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "No-more-chances"
+	}
+}

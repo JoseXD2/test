@@ -1,0 +1,49 @@
+{
+	"storyName": "get a restraining order",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "fart",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"restraining order",
+			"jhonnbop",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"stfu",
+			"bop",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"escape",
+			"HI_HI_meri_veil",
+			[
+				130,
+				0,
+				34
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "restraining order!!!!"
+}

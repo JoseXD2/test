@@ -1,0 +1,132 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-248
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ron dancing beat Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-123,
+				-250
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ron dancing beat Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				-241
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ron dancing beat Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				-265
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ron dancing beat Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-100,
+				-251
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ugh",
+			"indices": [],
+			"name": "Ron dancing beat UGH"
+		},
+		{
+			"offsets": [
+				-70,
+				-250
+			],
+			"indices": [
+				29,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": true,
+			"name": "Ron dancing beat"
+		},
+		{
+			"offsets": [
+				-70,
+				-250
+			],
+			"indices": [
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": true,
+			"name": "Ron dancing beat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jhonn_Dancing_beat",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jhonn",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		85
+	],
+	"camera_position": [
+		-130,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

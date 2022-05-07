@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-281
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jhonn idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-460
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jhonn Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-336
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jhonn Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				-271
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Jhonn kiss dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				-210
+			],
+			"anim": "kill",
+			"fps": 24,
+			"name": "Gun animation",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				-411
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Jhonn Right"
+		},
+		{
+			"offsets": [
+				60,
+				-411
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Jhonn Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jhonn_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jhonn",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		85
+	],
+	"camera_position": [
+		90,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
